@@ -1,2 +1,1 @@
-# SolrIntegration
-Professional SolrIntegration solrintegration-engine with SolrIntegration-optimized intelligent-automation and enterprise solrintegration-optimization capabilities
+.
